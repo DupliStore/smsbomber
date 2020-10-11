@@ -4,7 +4,7 @@ import services
 
 
 #header
-print(f"NI BOMBER 2.4")
+print(f"DUPLI BOMBER 1.3")
 
 print()
 print(f"coded by", end="")
